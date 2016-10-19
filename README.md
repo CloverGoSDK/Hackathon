@@ -22,11 +22,11 @@ In Build Settings under **Target** and set **Allow Non-modular Includes in Frame
 
 ###Initializing the SDK
 
-'''
+```
 - (id)initWithEmployeeId:(NSString *)employeeId
               merchantID:(NSString *)merchantId
                 deviceId:(NSString *)deviceId
-'''
+```
 
 Initialization should be done only once and you can get the CloverGo instance rest of the application using 
 
