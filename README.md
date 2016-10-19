@@ -6,15 +6,15 @@ Add the **CloverGo.framework**
 
 Other Dependent Libraries that needs to linked to your iOS Application
 
--Foundation.framework
--CoreBluetooth.framework
--ExternalAccessory.framework
--MobileCoreServices.framework
--SystemConfiguration.framework
--MediaPlayer.framework
--AudioToolbox.framework
--AVFoundation.framework
--libstdc++.6.tbd
+- Foundation.framework
+- CoreBluetooth.framework
+- ExternalAccessory.framework
+- MobileCoreServices.framework
+- SystemConfiguration.framework
+- MediaPlayer.framework
+- AudioToolbox.framework
+- AVFoundation.framework
+- libstdc++.6.tbd
 
 ###Additional project setting
 
